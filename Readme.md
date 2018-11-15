@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyXtraTabControl.cs](./CS/Q147080/MyXtraTabControl.cs) (VB: [MyXtraTabControl.vb](./VB/Q147080/MyXtraTabControl.vb))
+<!-- default file list end -->
 # How to force the XtraTabControl to maintain the line order in MultiLine mode
 
 
